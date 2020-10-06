@@ -337,5 +337,9 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
+  },
+  {
+    "title": "git pull origin NameOfBranch",
+    "description": "It makes an update in our local branch, from a remote branch that we indicate in the command."
   }
 ]
